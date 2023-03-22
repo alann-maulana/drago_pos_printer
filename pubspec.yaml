@@ -19,7 +19,7 @@ dependencies:
   drago_usb_printer: ^0.0.2
   network_info_plus: ^3.0.2
   printing: ^5.10.1
-  win32: ^4.1.1
+  win32: ^2.7.0
   ffi: ^2.0.1
   gbk_codec: ^0.4.0
 
