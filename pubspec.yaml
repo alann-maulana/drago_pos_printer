@@ -46,3 +46,6 @@ flutter:
         pluginClass: DragoPrinterManager
         fileName: drago_pos_printer.dart
 
+  assets:
+    - packages/drago_pos_printer/assets/capabilities.json
+

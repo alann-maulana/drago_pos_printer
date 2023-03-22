@@ -16,7 +16,7 @@ dependencies:
       url: https://github.com/selvam920/webcontent_converter
   charset_converter:
   intl:
-  path_provider:
+  path_provider: ^2.0.5
   printing:
   pdf:
 
