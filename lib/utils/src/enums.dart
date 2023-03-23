@@ -28,7 +28,7 @@ class PosTextSize {
 }
 
 class PaperSizeWidth {
-  static int mm58 = 384;
+  static const mm58 = 384;
   static const mm80_Old = 500;
   static const mm80 = 570;
 
@@ -38,7 +38,7 @@ class PaperSizeWidth {
 }
 
 class PaperSizeMaxPerLine {
-  static int mm58 = 32;
+  static const mm58 = 32;
   static const mm80_Old = 42;
   static const mm80 = 48;
   // static const mm70 = 42;
